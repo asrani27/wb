@@ -16,10 +16,11 @@ class MailNotify extends Mailable
      *
      * @return void
      */
-    private $data = [];
-    public function __construct($data)
+    public $details;
+
+    public function __construct($details)
     {
-        return $this->data;
+        $this->details = $details;
     }
 
     /**
@@ -29,8 +30,6 @@ class MailNotify extends Mailable
      */
     public function build()
     {
-
-        return $this->subject('Mail from ItSolutionStuff.com')
-            ->view('emails.index');
+        return $this->view('emails.index2');
     }
 }
