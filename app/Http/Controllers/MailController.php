@@ -42,7 +42,7 @@ class MailController extends Controller
             'bukti' => $req->file == null ? '-' : 'https://whistleblower.banjarmasinkota.go.id/storage/filewb/' . $filename
         ];
 
-        \Mail::to('taufikrivani26@gmail.com')->send(new \App\Mail\MailNotify($details));
+        \Mail::to('taufikrifani26@gmail.com')->send(new \App\Mail\MailNotify($details));
 
         Session::flash('success', 'Aduan Telah Dikirim');
         return redirect('/');
