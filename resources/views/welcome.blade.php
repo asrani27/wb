@@ -168,8 +168,11 @@
                 <strong><i class="fa fa-phone"></i> Telp Kantor</strong><br/>
                 (0511) 6675351
                 <br/><br/>
-                <strong><i class="fa fa-envelope"></i>  Web Resmi SKPD</strong><br/>
+                <strong><i class="fa fa-globe"></i>  Web Resmi SKPD</strong><br/>
                 inspektorat.banjarmasinkota.go.id
+                <br/><br/>
+                <strong><i class="fa fa-envelope"></i> Email </strong><br/>
+                inspbjm@gmail.com
               </div>
             </div>
           </div>
