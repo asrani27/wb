@@ -169,7 +169,7 @@
                 (0511) 6675351
                 <br/><br/>
                 <strong><i class="fa fa-envelope"></i>  Web Resmi SKPD</strong><br/>
-                inspekorat.banjarmasinkota.go.id
+                inspektorat.banjarmasinkota.go.id
               </div>
             </div>
           </div>
