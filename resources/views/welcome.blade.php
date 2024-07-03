@@ -169,10 +169,10 @@
                 (0511) 6675351
                 <br/><br/>
                 <strong><i class="fa fa-globe"></i>  Web Resmi SKPD</strong><br/>
-                <a href="https://inspektorat.banjarmasinkota.go.id" style="color:black">inspektorat.banjarmasinkota.go.id</a>
+                <a href="https://inspektorat.banjarmasinkota.go.id" style="color:black" target="_blank">inspektorat.banjarmasinkota.go.id</a>
                 <br/><br/>
                 <strong><i class="fa fa-envelope"></i> Email </strong><br/>
-                inspbjm@gmail.com
+                <a href="mailto:inspbjm@gmail.com" target="_blank" style="color: black">inspbjm@gmail.com</a>
               </div>
             </div>
           </div>
