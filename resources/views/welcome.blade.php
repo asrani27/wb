@@ -166,7 +166,7 @@
                 Jalan Tirta Dharma (Komplek PDAM) Rt.18 No.70 Banjarmasin
                 <br/><br/>
                 <strong><i class="fa fa-phone"></i> Telp Kantor</strong><br/>
-                (0511) 6675351
+                081251111020
                 <br/><br/>
                 <strong><i class="fa fa-globe"></i>  Web Resmi SKPD</strong><br/>
                 <a href="https://inspektorat.banjarmasinkota.go.id" style="color:black" target="_blank">inspektorat.banjarmasinkota.go.id</a>
