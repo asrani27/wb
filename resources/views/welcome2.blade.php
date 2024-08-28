@@ -286,6 +286,7 @@
                 <div class="col-lg-8">
                     <div class="contact-form">
                         <form class="contact-form" method="post" action="/sendwb" enctype="multipart/form-data">
+                            @csrf
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="single-form form-group">
