@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MailController;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome2');
     // if (Auth::check()) {
     //     if (Auth::user()->hasRole('superadmin')) {
     //         return redirect('superadmin');
