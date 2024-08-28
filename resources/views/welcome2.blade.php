@@ -273,7 +273,7 @@
 
     <!--====== CONTACT PART START ======-->
 
-    <section id="pengaduan" class="pricing-area">
+    <section id="pengaduan" class="pricing-area" style="padding-bottom:20px; padding-top:40px">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -342,6 +342,26 @@
 
     <!--====== FOOTER PART START ======-->
 
+
+    <div class="row text-center">
+        <div class="col-lg-12">
+            <br/>
+            statistik pengunjung
+            <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+            <!-- Histats.com  START  (aync)-->
+            <script type="text/javascript">var _Hasync= _Hasync|| [];
+            _Hasync.push(['Histats.start', '1,4891314,4,424,112,75,00011111']);
+            _Hasync.push(['Histats.fasi', '1']);
+            _Hasync.push(['Histats.track_hits', '']);
+            (function() {
+            var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+            hs.src = ('//s10.histats.com/js15_as.js');
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+            })();</script>
+            <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4891314&101" alt="" border="0"></a></noscript>
+
+        </div>
+    </div>
     <footer id="footer" class="footer-area">
         <div class="footer-copyright">
             <div class="container">
