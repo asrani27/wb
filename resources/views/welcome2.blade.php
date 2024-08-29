@@ -76,7 +76,7 @@
             </div> <!-- container -->
         </div> <!-- navgition -->
 
-        <div id="home" class="header-hero bg_cover" style="background-image: url(logo/bgg.jpg)">
+        <div id="home" class="header-hero bg_cover" style="background-image: url(logo/bjm2.jpg)">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-10 col-lg-10">
