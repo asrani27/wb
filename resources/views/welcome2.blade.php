@@ -106,7 +106,7 @@
                 <div class="col-lg-12">
 
                     <h1>Definisi Whistleblowing System</h1>
-                    Whistleblowing System (WBS) adalah mekanisme penyampaian pengaduan dugaan tindak pidana tertentu yang telah terjadi atau akan terjadi yang melibatkan pegawai dan orang lain yang yang dilakukan dalam organisasi tempatnya bekerja, dimana pelapor bukan merupakan bagian dari pelaku kejahatan yang dilaporkannya. Aplikasi Whistleblowing System disediakan oleh Pemerintah Kota Surabaya bagi Anda yang memiliki informasi dan ingin melaporkan suatu perbuatan berindikasi pelanggaran yang terjadi di lingkungan Pemerintah Kota Banjarmasin.
+                    Whistleblowing System (WBS) adalah mekanisme penyampaian pengaduan dugaan tindak pidana tertentu yang telah terjadi atau akan terjadi yang melibatkan pegawai dan orang lain yang yang dilakukan dalam organisasi tempatnya bekerja, dimana pelapor bukan merupakan bagian dari pelaku kejahatan yang dilaporkannya. Aplikasi Whistleblowing System disediakan oleh Pemerintah Kota Banjarmasin bagi Anda yang memiliki informasi dan ingin melaporkan suatu perbuatan berindikasi pelanggaran yang terjadi di lingkungan Pemerintah Kota Banjarmasin.
                       
                 </div>
             </div>
@@ -246,7 +246,7 @@
                                 </div>
                                 <div class="services-content media-body">
                                     <h4 class="services-title">Periksa Kelengkapan Laporan Anda</h4>
-                                    <p class="text" style="text-align:justify">Sebelum melaporkan pengaduan Anda di Whistleblowing System Pemerintah Kota Surabaya, periksa kembali kelengkapan pengaduan Anda apakah telah sesuai dengan kriteria pengaduan yang telah ditetapkan.
+                                    <p class="text" style="text-align:justify">Sebelum melaporkan pengaduan Anda di Whistleblowing System Pemerintah Kota Banjarmasin, periksa kembali kelengkapan pengaduan Anda apakah telah sesuai dengan kriteria pengaduan yang telah ditetapkan.
 
                                         Pengaduan dengan data lengkap dan sesuai dengan kriteria pengaduan akan mempercepat proses tindak lanjut atas aduan Anda.</p>
                                 </div>
